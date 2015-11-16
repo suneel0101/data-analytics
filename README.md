@@ -42,20 +42,6 @@ Students will be able to
 
 **Question** Any others?
 
-# Product usage analytics (20)
-**Question** If you're a data analyst at an e-commerce company, say Bonobos, what questions/problems are you thinking about?
-
-Some categories of analysis to consider:
-- User acquisition channels
-- Sign up flow
-- Email engagement
-- Web activity
-- Activation/retention
-
-Third-Party Tools
-- [Google Analytics](https://www.google.com/analytics/standard/)
-- [Mixpanel](https://mixpanel.com/engagement/)
-
 # Healthcare claims data (30)
 - [Data](https://docs.google.com/spreadsheets/d/1xB5KMLhb0ETkowUzBV6EQho9DVpzP-o0By1q1kkBnN4/edit?usp=sharing)
 - [Documentation](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Medicare-Physician-and-Other-Supplier-PUF-Methodology.pdf)
@@ -70,6 +56,20 @@ Third-Party Tools
 - If you were a hospital, what are some questions you might have?
 - If you were a physician, what are some questions you might have?
 - If you were an analyst, what are some questions/concerns you might have about the data (if any)?
+
+# Product usage analytics (20)
+**Question** If you're a data analyst at an e-commerce company, say Bonobos, what questions/problems are you thinking about?
+
+Some categories of analysis to consider:
+- User acquisition channels
+- Sign up flow
+- Email engagement
+- Web activity
+- Activation/retention
+
+Third-Party Tools
+- [Google Analytics](https://www.google.com/analytics/standard/)
+- [Mixpanel](https://mixpanel.com/engagement/)
 
 # Industry examples of data science (15)
 | Industry    | Description                     |
