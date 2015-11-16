@@ -96,7 +96,7 @@ Some terms:
 - how would the algorithm update based on feedback?
 
 # Big Data (25)
-- [Netflix & House of Cards](https://upload.wikimedia.org/wikipedia/en/8/87/Sql_query1.png)
+- [Netflix & House of Cards](http://www.salon.com/2013/02/01/how_netflix_is_turning_viewers_into_puppets/)
 
 ## Questions
 - What are some takeaways you found interesting?
