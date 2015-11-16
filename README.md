@@ -33,12 +33,13 @@ Students will be able to
 
 # Examples of analytics (30)
 
-|  Industry     |  Description                                |
-|  healthcare   |  insurance claims data                      |
-|  media        |  churn/subscription                         |
-|  advertising  |  ad effectiveness                           |
-|  finance      |  customer segmentation                      |
-|  general      |  product usage                              |
+| Industry    | Description           |
+|-------------|-----------------------|
+| healthcare  | insurance claims data |
+| media       | subscription/churn    |
+| advertising | ad effective ness     |
+| finance     | customer segmentation |
+| general     | product usage         |
 
 **Question** Any others?
 
