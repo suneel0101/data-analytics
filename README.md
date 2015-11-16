@@ -125,7 +125,7 @@ If you're already working with an existing data set
 3. Process the data so that you can easily answer those questions/
 
 ## Questions
-- What is the problem definition?
+- What is the definition of the problem that the author is tackling?
 - What was the author's analysis workflow?
 - What methods were used?
 
