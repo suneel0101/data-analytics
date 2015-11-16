@@ -64,12 +64,12 @@ Third-Party Tools
 - [Fact Sheet](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/2015-Fact-sheets-items/2015-06-01.html)
 
 # Industry examples of data science (75)
-
-|   Industry       |   Description                           |
-|  e-commerce      | product recommendation                  |
-|  finance         | fraud detection                         |
-|  healthcare      | computer vision to detect cancer        |
-|  logistics       | self-driving cars                       |
+| Industry    | Description                     |
+|-------------|---------------------------------|
+|  e-commerce | product recommendation          |
+|  finance    | fraud detection                 |
+|  healthcare | computer vision to detect cancer|
+|  logistics  | self-driving cars               |
 
 **Question** Any others?
 
