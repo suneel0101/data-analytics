@@ -63,12 +63,13 @@ Third-Party Tools
 - [Fact Sheet](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/2015-Fact-sheets-items/2015-06-01.html)
 
 ## Questions
-- What is this data about?
+- What is this data about? What do the columns mean?
 - What types of data are being collected?
 - What insights could we extract from this data?
 - If you were an insurance company, what are some questions you might have?
 - If you were a hospital, what are some questions you might have?
 - If you were a physician, what are some questions you might have?
+- If you were an analyst, what are some questions/concerns you might have about the data (if any)?
 
 # Industry examples of data science (15)
 | Industry    | Description                     |
