@@ -3,6 +3,7 @@ Students will be able to
 - explain the different components of the data ecosystem and how they relate to each other
 - identify what skills are needed for data analytics
 - identify what skills are needed for data science
+- identify what next steps are necessary for their track
 
 # Agenda
 0. Intro
