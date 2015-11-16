@@ -108,6 +108,11 @@ Some terms:
 - [Health inspection data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59)
 - [Restaurant health ratings visualization](http://www.nytimes.com/interactive/dining/new-york-health-department-restaurant-ratings-map.html?_r=1&)
 
+## Questions
+- What is the definition of the problem that the author is tackling?
+- What was the author's analysis workflow?
+- What methods were used?
+
 ## Workflow
 Here are some general guidelines.
 
@@ -123,11 +128,6 @@ If you're already working with an existing data set
 1. Identify any issues or incompleteness of the data
 2. Define the problems/questions you want to ask of the data
 3. Process the data so that you can easily answer those questions/
-
-## Questions
-- What is the definition of the problem that the author is tackling?
-- What was the author's analysis workflow?
-- What methods were used?
 
 # Visualization (5)
 - [d3](https://github.com/mbostock/d3/wiki/Gallery) | [examples](https://github.com/mbostock/d3/wiki/Gallery)
