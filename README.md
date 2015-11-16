@@ -32,6 +32,7 @@ Students will be able to
 - [data analytics vs data science](http://qr.ae/RwB5Yd)
 
 # Examples of analytics (30)
+
 |  Industry     |  Description                                |
 |  healthcare   |  insurance claims data                      |
 |  media        |  churn/subscription                         |
@@ -62,6 +63,7 @@ Third-Party Tools
 - [Fact Sheet](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/2015-Fact-sheets-items/2015-06-01.html)
 
 # Industry examples of data science (75)
+
 |   Industry       |   Description                           |
 |  e-commerce      | product recommendation                  |
 |  finance         | fraud detection                         |
