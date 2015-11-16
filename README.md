@@ -1,10 +1,8 @@
 # Objectives
 Students will be able to
-- define `data analysis` and `data science` and articulate the difference between them
-- explain what `big data` is
-- list the skills needed for data analysis
-- list the skills needed for data science
-- explain the different components of the data analysis ecosystem and how they relate (e.g. data, database, analysis tools, visualization)
+- explain the different components of the data ecosystem and how they relate to each other
+- identify what skills are needed for data analytics
+- identify what skills are needed for data science
 
 # Agenda
 0. Intro
