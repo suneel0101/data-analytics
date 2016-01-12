@@ -1,55 +1,53 @@
 # Objectives
-Students will be able to
-- explain the different components of the data ecosystem and how they relate to each other
-- identify what skills are needed for data analytics
-- identify what skills are needed for data science
-- identify what next steps are necessary for their track
+Students will be able to explain
+
+- what data analytics is
+- what data science is
+- how they differ
+- what skills they need to acquire for each.
 
 # Agenda
-0. Intro
-1. Defining some terms
-2. Industry examples of data analytics
-3. Thought experiment: Signup flow/ product usage/engagement
-3. Data analysis discussion (Healthcare Case Study)
-4. Industry examples of data science
-5. Thought experiment: creating a Netflix
-6. Big data discussion (Netflix Case Study)
-7. Data Analysis Workflow (Restaurant Case Study)
-7. Examples of data visualization
-8. Next steps + skills needed
+0. Data Analytics: the problems it solves [10]
+1. Data Analytics: what is data? [10]
+2. Data Analytics: what are databases? [15]
+3. Data Analytics: what is analysis? [25]
+4. Data Analytics: what skills/tools needed? [25]
+5. Data Science: the problems it solves [15]
+6. Data Science: definition of ML [30]
+7. Data Science: skills [10]
+8. Next Steps [5]
+9. Any questions? [10]
+10. Good luck!
 
-# Intro (10)
-- Why are we here?
-- What is data analytics?
+# Data Analytics
+## What problems does Data Analytics solve?
+### Exercise
+0. Partner up
+1. What comes to mind when you think of data analytics? Is there someone at your company that handles analytics? What do they do? Any examples?
+2. Share our best findings with the class.
+3. Conclude on what problems analytics solves.
+4. Share examples of analytics at work.
 
-# Terms (20)
-- databases
-- [SQL](http://support.sas.com/documentation/cdl/en/sqlproc/63043/HTML/default/images/proc-sql-ex3a.png) | [example](https://upload.wikimedia.org/wikipedia/en/8/87/Sql_query1.png)
-- [noSQL](https://www.mongodb.com/nosql-explained)
-- Excel
-- [big data](http://www.sas.com/en_us/insights/big-data/what-is-big-data.html)`#BuzzWord`
-- data science / machine learning
-- [data analytics vs data science](http://qr.ae/RwB5Yd)
+## What is Data?
+### Exercise
+Suppose you are the very first product analyst at Uber.
 
-# Examples of analytics (10)
+0. Partner up
+1. When a user is signing up, what info about that user should you collect?
+2. What user actions do you want to keep track of? What pieces of info are necessary?
 
-| Industry    | Description           |
-|-------------|-----------------------|
-| healthcare  | insurance claims data |
-| media       | subscription/churn    |
-| advertising | ad effective ness     |
-| finance     | customer segmentation |
-| general     | product usage         |
+## What are Databases?
+Let's take the raw pieces of data from the previous section and structure them.
 
-**Question** Any others?
-
-# Healthcare claims data (30)
+## What is Analysis?
 - [Data](https://docs.google.com/spreadsheets/d/1xB5KMLhb0ETkowUzBV6EQho9DVpzP-o0By1q1kkBnN4/edit?usp=sharing)
 - [Documentation](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/Downloads/Medicare-Physician-and-Other-Supplier-PUF-Methodology.pdf)
 - [News](http://www.fiercehealthfinance.com/story/cms-releases-new-physician-hospital-payment-data/2015-06-01)
 - [Fact Sheet](https://www.cms.gov/Newsroom/MediaReleaseDatabase/Fact-sheets/2015-Fact-sheets-items/2015-06-01.html)
 
-## Questions
+### Questions
+Together with a partner, answer the following:
+
 - What is this data about? What do the columns mean?
 - What types of data are being collected?
 - What insights could we extract from this data?
@@ -58,106 +56,84 @@ Students will be able to
 - If you were a physician, what are some questions you might have?
 - If you were an analyst, what are some questions/concerns you might have about the data (if any)?
 
-# Product usage analytics (20)
-**Question** If you're a data analyst at an e-commerce company, say Bonobos, what questions/problems are you thinking about?
+### Question
+How is analysis different from analytics?
 
-Some categories of analysis to consider:
-- User acquisition channels
-- Sign up flow
-- Email engagement
-- Web activity
-- Activation/retention
-
-Third-Party Tools
-- [Google Analytics](https://www.google.com/analytics/standard/)
-- [Mixpanel](https://mixpanel.com/engagement/)
-
-# Industry examples of data science (15)
-| Industry    | Description                     |
-|-------------|---------------------------------|
-|  e-commerce | product recommendation          |
-|  finance    | fraud detection                 |
-|  healthcare | computer vision to detect cancer|
-|  logistics  | self-driving cars, [UPS](http://priceonomics.com/why-ups-trucks-dont-turn-left/)          |
-
-**Question** Any others?
-
-# Data Science (15)
-Some terms:
-- supervised
-- unsupervised
-- features and target data
-- models (e.g. linear regression, logistic regression, random forest, neural networks)
-- training the model
-- cross validation
-
-# Creating a Netflix-esque Recommendation Engine (Time Permitting) (20)
-- what are some features?
-- how would the algorithm get feedback?
-- how would the algorithm update based on feedback?
-
-# Big Data (25)
-- [Netflix & House of Cards](http://www.salon.com/2013/02/01/how_netflix_is_turning_viewers_into_puppets/)
-
-## Questions
-- What are some takeaways you found interesting?
-- What kind of data is Netflix collecting?
-- What other insights/questions would you ask of the data?
-
-# Analytics Workflow (Time Permitting) (30)
+## What skills/tools are needed?
+### Workflow
 - [Health grade analysis case study](http://fivethirtyeight.com/features/how-data-made-me-a-believer-in-new-york-citys-restaurant-grades/)
 - [Health inspection data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59)
 - [Restaurant health ratings visualization](http://www.nytimes.com/interactive/dining/new-york-health-department-restaurant-ratings-map.html?_r=1&)
 
-## Questions
-- What is the definition of the problem that the author is tackling?
+#### Questions
+- What is the problem that the author is tackling?
 - What was the author's analysis workflow?
-- What methods were used?
+- What methods/tools were used?
 
-## Workflow
-Here are some general guidelines.
-
-If you're crafting an experiment,
-
-0. Define the problem.
-1. Define the data you'd need to collect to make a determination
-2. Instrument your app/product to collect that data
-3. Run your analysis and validate/invalidate your hypothesis.
-
-If you're already working with an existing data set
-0. Understand what data you have available to you
-1. Identify any issues or incompleteness of the data
-2. Define the problems/questions you want to ask of the data
-3. Process the data so that you can easily answer those questions/
-
-# Visualization (5)
+### Visualization
 - [d3](https://github.com/mbostock/d3/wiki/Gallery) | [examples](https://github.com/mbostock/d3/wiki/Gallery)
 - [highcharts](http://www.highcharts.com/)
 - [plot.ly](https://plot.ly/)
 - [tableau](http://www.tableau.com/)
 
-# Skills (5)
-## Data Analytics
+### Skills
 - Excel
 - SQL
-- python & pandas
+- Visualization
+- Python (optional but recommended)
 
-## Data Science
-- python & pandas or R
-- statitics, probability and linear algebra
-- SQL, noSQL
+### Third-Party Tools
+- [Google Analytics](https://www.google.com/analytics/standard/)
+- [Mixpanel](https://mixpanel.com/engagement/)
 
-## Data Visualization
-- Javascript
-- d3.js
-- python & matplotlib/seabreeze
+# Data Science
+## What problems does Data Science solve? What is Big Data?
+
+### Exercise
+Read [Netflix & House of Cards](http://www.salon.com/2013/02/01/how_netflix_is_turning_viewers_into_puppets/) and discuss as a group.
+
+#### Questions
+- What are some takeaways you found interesting?
+- What kind of data is Netflix collecting?
+- What other insights/questions would you ask of the data?
+- What is big data?
+
+### Examples of data science
+
+## What is Machine Learning?
+- What is unsupervised learning?
+- What is supervised learning?
+- Examples of each
+
+### Terminology
+- features
+- classification
+- regression
+
+### Exercise: Designing a Netflix
+- what are some features?
+- how would the algorithm get feedback?
+- how would the algorithm update based on feedback?
+
+## What skills/tools are needed?
+- python, pandas, and sklearn
+- SQL and noSQL databases
+- statistics, calculus and linear algebra
+- R (optional)
+- visualization
 
 # Next Steps
+## Analytics
+- SQL Bootcamp
 - Data Analytics course
-- Data Science course
-- Intro to SQL
 - Intro to Excel
 - Intro to Python
+- Visualization (Metis)
+
+## Science
+Recommend all the above and these:
+
 - Python for Data Science
 - Intro to Pandas
 - Advanced Python
+- Data Science course (Metis or GA)
