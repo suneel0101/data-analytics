@@ -6,6 +6,19 @@ Students will be able to explain
 - how they differ
 - what skills they need to acquire for each.
 
+# Agenda
+0. Data Analytics: the problems it solves [10]
+1. Data Analytics: what is data? [10]
+2. Data Analytics: what are databases? [15]
+3. Data Analytics: what is analysis? [25]
+4. Data Analytics: what skills/tools needed? [25]
+5. Data Science: the problems it solves [15]
+6. Data Science: definition and examples [30]
+7. Data Science: skills [10]
+8. Next Steps [5]
+9. Any questions? [10]
+10. Good luck!
+
 # Data Analytics
 ## What problems does Data Analytics solve?
 ### Exercise
