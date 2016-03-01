@@ -1,7 +1,7 @@
 # Objectives
 Students will be able to explain what data analytics is, what skills are required, and what next steps they need to take to move forward in that field.
 
-# Intro
+# Intro (30)
 ## Hello.
 
 ## What is Data Analytics?
@@ -13,7 +13,7 @@ Students will be able to explain what data analytics is, what skills are require
 
 # What is Data?
 
-# How Do We Store Data?
+# How Do We Store Data? (20)
 ## SQL
 [Short Video](https://www.youtube.com/watch?v=EUB113i_mzA)
 
@@ -33,7 +33,7 @@ Structure the data for our case study.
 # How Do We Analyze Data?
 ## Sample SQL
 
-# How Do We Collect Data
+# How Do We Collect Data (10)
 ## Third-Party
 ### Google Analytics
 [Reading exercise](http://www.problogger.net/archives/2015/01/19/a-powerful-exercise-inside-google-analytics-to-set-you-up-for-a-successful-year-of-blogging/)
@@ -44,7 +44,7 @@ Structure the data for our case study.
 
 ## Custom
 
-# How Do We Experiment?
+# How Do We Experiment? (20)
 ## A/B Testing
 [Reading exercise](http://blog.hubspot.com/marketing/a-b-testing-experiments-examples)
 
@@ -61,8 +61,7 @@ Structure the data for our case study.
 - [`t test`](https://en.wikipedia.org/wiki/Student%27s_t-test)
 - [Hypothesis testing](http://stattrek.com/hypothesis-test/hypothesis-testing.aspx)
 
-
-# Visualization & Workflow
+# Visualization & Workflow (30)
 ## Preamble
 - Why important?
 - What kinds?
@@ -89,7 +88,7 @@ Structure the data for our case study.
 - What was the author's analysis workflow?
 - What methods/tools were used?
 
-# Programming
+# Programming (15)
 ## Why?
 
 ## Skills
@@ -101,13 +100,22 @@ Structure the data for our case study.
 ## Example
 
 
-# What is Data Science? (Time permitting)
+# What is Data Science? (Time permitting, 30)
 - Big data
 - Machine learning
 - Data mining
 - Predictive analytics
 - Tools / Skills
 
-# Next steps
+## Application
+
+## Terms
+
+## Thought Experiment /Building a netflix
+[Reading exercise](http://www.nytimes.com/2013/02/25/business/media/for-house-of-cards-using-big-data-to-guarantee-its-popularity.html)
+
+# Next steps (5)
 - What to learn
 - What roles are available
+
+# Questions (10)
